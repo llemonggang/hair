@@ -69,3 +69,37 @@ a:hover {
 a:active {
     color: #FDC724;
 }
+
+h5 {
+  font-size: 20px;
+  color: #FDC724;
+  margin-left: 10%;
+}
+
+#about {
+  margin-top: 20px;
+  background-color: #767C71;
+}
+
+#me {
+  float: left;
+  border-style: solid;
+  border-radius: 25px;
+  border-width: 10px;
+  border-color: #767C71;
+}
+
+#about-blurb {
+  margin: 25px;
+  font-size: 30px;
+}
+
+#contact {
+  font-size: 30px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+#contact li {
+  padding: 30px;
+}
