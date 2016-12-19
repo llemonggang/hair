@@ -1,6 +1,6 @@
 body {
   font-family: 'Nunito Sans', sans-serif;
-  background-color: #8CD9E5;
+  background-color: #767C71;
 }
 
 .container {
@@ -8,27 +8,22 @@ body {
 }
 
 .header {
-  background: white;
-  max-width: 900px;
-  margin: 0 auto;
-  border-radius: 35px;
-  border-width: 10px;
-  border-color: white;
-  border-style: solid;
-  margin-bottom: 10px;
+  width: 100%;
 }
 
 h1 {
   text-align: center;
   font-size: 100px;
   margin: 0;
-  color: #E25524;
+  color: white;
+  font-family: 'Special Elite', cursive;
+  letter-spacing: 30px;
+  margin-top: 15px;
 }
 
 h2 {
   text-align: center;
   font-size: 40px;
-  margin-top: -25px;
 }
 
 li {
@@ -43,8 +38,15 @@ img {
   border-width: 10px;
   border-color: white;
   border-style: solid;
+  margin: 15px;
 }
 
-.images {
-  display: block;
+h4 {
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+#logo {
+  border: none;
+  height: 350px;
 }
